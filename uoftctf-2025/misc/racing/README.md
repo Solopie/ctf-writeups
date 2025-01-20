@@ -14,7 +14,7 @@ Author: atom
 
 ## Writeup
 
-Note: Since the CTF infrastructure is down, I will self-host the challenge using the provided source code. The challenge will be hosted on a locally defined host `racing.chal` instead of the specified IP.
+> Note: Since the CTF infrastructure is down, I will self-host the challenge using the provided source code. The challenge will be hosted on a locally defined host `racing.chal` instead of the specified IP.
 
 ### Enumerating SSH access
 

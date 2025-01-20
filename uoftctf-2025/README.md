@@ -1,5 +1,7 @@
 # UOFTCTF-2025
 
+Official writeups and source code found here: https://github.com/UofTCTF/uoftctf-2025-chals-public
+
 ## Pwn
 
 - [Baby Pwn \(100\)](./pwn/baby-pwn)
